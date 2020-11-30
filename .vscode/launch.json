@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestappApplication<restapp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.myrestapp.restapp.RestappApplication",
+            "projectName": "restapp",
+            "args": ""
+        }
+    ]
+}
